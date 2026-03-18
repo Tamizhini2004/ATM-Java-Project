@@ -5,16 +5,16 @@ This project demonstrates basic programming concepts like loops, conditions, use
 
 🚀 Features
 
-💰 Withdraw Money
-➕ Deposit Money
-📊 Check Account Balance
-✅ Input Validation (prevents invalid amounts)
-🔁 Continuous operation using loop (ATM-like behavior)
+*💰 Withdraw Money
+*➕ Deposit Money
+*📊 Check Account Balance
+*✅ Input Validation (prevents invalid amounts)
+*🔁 Continuous operation using loop (ATM-like behavior)
 
  🛠️ Technologies Used
 
-->Java
-->Scanner (for user input)
+*->Java
+*->Scanner (for user input)
 
 
 📂 Project Structure
