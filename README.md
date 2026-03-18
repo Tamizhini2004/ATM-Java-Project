@@ -21,12 +21,12 @@ This project demonstrates basic programming concepts like loops, conditions, use
 
 
 Basic-ATM-Machine/
-   * │
-   * ├── src/
-   * │  └── ATM.java
-   * │
-   * ├── README.md
-   * └── .gitignore
+    │
+    ├── src/
+    │  └── ATM.java
+    │
+    ├── README.md
+    └── .gitignore
 
 
  ▶️ How to Run
